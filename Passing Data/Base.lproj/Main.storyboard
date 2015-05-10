@@ -5,7 +5,7 @@
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <scenes>
-        <!--Data Magic-->
+        <!--A -> B-->
         <scene sceneID="BZd-tM-7bG">
             <objects>
                 <tableViewController id="Ldv-Ez-H45" customClass="ViewControllerA" customModule="Passing_Data" customModuleProvider="target" sceneMemberID="viewController">
@@ -37,7 +37,7 @@
                             <outlet property="delegate" destination="Ldv-Ez-H45" id="W21-SA-2oG"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Data Magic" id="Vxa-VR-2ld"/>
+                    <navigationItem key="navigationItem" title="A -&gt; B" id="Vxa-VR-2ld"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x66-za-PUh" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
